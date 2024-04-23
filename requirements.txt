@@ -1,29 +1,10 @@
-numpy==1.21.2  # Using an older version with pre-built wheels for compatibility
-pandas==1.3.3
 streamlit==1.24.0
+pandas==1.3.3
+numpy>=1.22.0
 nltk==3.6.5
-tensorflow  # No version specified; consider specifying if needed for compatibility
+tensorflow
 plotly==5.1.0
 emoji
 scikit-learn==1.2.2
 matplotlib==3.4.3
-seaborn==0.11.0
-openai==0.27.8
-sentence-transformers==2.2.2
-pyecharts==1.9.0
-networkx==3.1
-wordcloud==1.9.2
-torch>=1.8.0
-torchvision>=0.9.0
-opencv-python-headless
-altair<5
-dill
-setuptools>=65.5.1
-gitpython>=3.1.30
-psutil
-PyYAML>=5.3.1
-requests>=2.23.0
-scipy>=1.4.1
-thop>=0.1.1
-tqdm>=4.64.0
-ultralytics>=8.0.232
+seaborn>=0.11.0
