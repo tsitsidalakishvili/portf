@@ -9,8 +9,9 @@
 #matplotlib==3.4.3
 #seaborn>=0.11.0
 
+openai==0.27.8
 
 streamlit
-openai
+
 moviepy
 Pillow
